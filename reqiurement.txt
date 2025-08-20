@@ -1,0 +1,4 @@
+1. Install Python (3.8 or later) and required libraries: `pip install streamlit pandas numpy`
+2. Save the attached `app.py` file to a folder.
+3. Open Command Prompt/Terminal, navigate to the folder with `cd path/to/folder`, and run: `streamlit run app.py`
+4. Open the provided URL (e.g., http://localhost:8501) in a browser.
